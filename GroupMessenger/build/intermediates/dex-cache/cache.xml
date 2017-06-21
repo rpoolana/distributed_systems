@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/swamy/android_workspace/GroupMessenger2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5fe25b8323988830a33a991115871ab393874805">
+        <dex dex="/Users/swamy/android_workspace/GroupMessenger2/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_c1e26d5ee01f3314f751ec52e23b7f0ae01dd239.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swamy/android_workspace/GroupMessenger2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d5d968a712329dcde11139d5776a46cddb011029">
+        <dex dex="/Users/swamy/android_workspace/GroupMessenger2/app/build/intermediates/pre-dexed/debug/instant-run_5541585837887a7ee9dd637c9fc8d63c2678d91d.jar" />
+    </item>
+
+</items>
